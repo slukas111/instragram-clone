@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Import Documentation Used
+
+https://tailwindcss.com/
+https://firebase.google.com/
+https://create-react-app.dev/
+
+### Planned Build-out of Instagram Clone
+[] Setup firebase 😄
+[] Install necessary scripts
+[] Setup Tailwind CSS
+
+
+
